@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-safwanmrahman
 
 Running at: <https://jpa03-safwanmrahman.dokku-13.cs.ucsb.edu>
 # Configuring GitHub Pages for the documentation
